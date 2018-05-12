@@ -1,0 +1,31 @@
+_repo: The-Acorn-PlanterA-California-Forest-Play--1916-_22104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2007-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Drama'
+- !lcc 'ML'
+- !lcc 'PS'
+title: 'The Acorn-Planter
+
+  A California Forest Play (1916)'
+url: http://www.gutenberg.org/ebooks/22104
